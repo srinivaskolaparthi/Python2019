@@ -1,0 +1,173 @@
+Day1
+-----------
+
+Basics of Python:
+
+IDE:Pycharm/Pydev is plugin(can be installed via eclipse)
+
+Python==>MINICONDA==>anaconda
+
+https://www.anaconda.com/distribution/
+https://docs.conda.io/en/latest/miniconda.html
+
+Pycharm--Devops support/Block chain/Big data supporting features.
+
+\\ndafile\Softwares\Kolaparthi
+
+https://repl.it/languages/python3
+https://www.onlinegdb.com/online_python_compiler
+
+------------------------------------------------
+
+Testing:Pytest....etc
+Continous Integration/Deployment: Jenkins/bambooss...etc
+Logging:pygogo..etc
+Error/logg Tracking:sentry,splunk.....etc
+Cloud:AWS,Azure....etc
+Code:Git/github/bitbucket/gitlab...etc
+Web frameworks:cherrypy,django,flask....etc
+Installing of plugins/dependencies:PIP/PIP3/EASY_INSTALL
+Continous code quality testing:nexus SonarQube
+REpo MAnagement: Nexus Sonatype
+BDD:Cucumber/spechflow...
+APP Monitoring: APPdynamics/new reliac....etc
+ETL:pandas..etc
+DataScience:Numpy...etc
+Templating Engines:freemarkers....
+Web Server:NGINX
+
+
+ Python: Iot/block chain/big data/ETL operations/Server Side/Web dev....
+
+https://sentry.io/welcome/
+
+------------------------------------
+
+Python support ORM?--yes.it supports using SQLALCHEMY.
+https://www.sqlalchemy.org/
+
+REPL :read,evalute,print loop
+
+Installation:
+  .exe/docker/install it as a plugin with required dependencies and Vm.
+
+http://hub.docker.com
+
+USer I/p:input("")
+
+out: print()
+
+
+Python if u want to install:pip/pip3/easy_install 
+
+
+All plugins or modules in python are stored in public repo.
+https://pypi.org/
+
+PIP/pip3---challenges(proxy issues/PIP issues like upgrade PIP)
+
+  Python/miniconda/anaconda
+
+C:\Users\<user>\AppData\Roaming\Python\Python36
+
+
+
+Python basics:
+
+  datatypes/oops/loops/conditional statements/operators/functions/packages
+
+
+
+
+python Expert:
+ logging/unit testing/ORM/database/connection pooling/multithreading/multiprocessing/log aggregations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
